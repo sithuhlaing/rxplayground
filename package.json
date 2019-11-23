@@ -1,0 +1,30 @@
+{
+  "name": "rxplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "gulp": "github:gulpjs/gulp",
+    "gulp-babel": "^8.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-load-plugins": "^1.5.0",
+    "nodemon": "^1.19.0",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.1"
+  },
+  "dependencies": {
+    "colour": "^0.7.1",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "rxjs": "^6.5.1"
+  }
+}
