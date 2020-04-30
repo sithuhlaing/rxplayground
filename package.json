@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "colour": "^0.7.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "rxjs": "^6.5.1"
